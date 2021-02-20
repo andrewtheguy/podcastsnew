@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Podcast Generator 2.7" -->
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="en" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>am1430</title>
+  <link>https://ipfs.io/ipns/podcastipfs.andrewtheguy.com</link>
+  <!--<atom:link href="https://podcasts.andrewtheguy.com/am1430/feed.xml" rel="self" type="application/rss+xml" />-->
+  <description> </description>
+  <generator>Podcast Generator 2.7 - http://www.podcastgenerator.net</generator>
+  <lastBuildDate>Sat, 20 Feb 2021 21:25:35 +0000</lastBuildDate>
+  <language>en</language>
+  <copyright>Your copyright notice</copyright>
+  <itunes:image href="https://ipfs.io/ipfs/QmdhW3UzaAravidM1ZFKrKcVNNLjS9DFFMpaFGYb31mpLh" />
+  <image>
+  <url>https://ipfs.io/ipfs/QmdhW3UzaAravidM1ZFKrKcVNNLjS9DFFMpaFGYb31mpLh</url>
+  <title>am1430</title>
+  <link>https://ipfs.io/ipns/podcastipfs.andrewtheguy.com</link>
+  </image>
+  <itunes:summary>am1430</itunes:summary>
+  <itunes:subtitle>am1430</itunes:subtitle>
+  <itunes:author>Various</itunes:author>
+  <itunes:owner>
+  <itunes:name>Various</itunes:name>
+  <itunes:email>test@nospam.com</itunes:email>
+  </itunes:owner>
+  <itunes:explicit>no</itunes:explicit>
+  
+  <itunes:category text="Arts"></itunes:category>
+  
+
+      <item>
+      <title>02-08-21 1810加油站 （上）</title>
+      <itunes:subtitle>Podcast Episode</itunes:subtitle>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <description>Podcast Episode</description>
+    <link>https://ipfs.io/ipfs/QmbzCxvXYTop3xEzxKamZA3r9dnFoXt6X4AMpboc9mHkUX</link>
+    <guid>SS4r8uw5bSx1i3+umaBVg/3JfnEpytNY6uQTNKlgdsk=</guid>
+          
+      <enclosure
+        url="https://ipfs.io/ipfs/QmbzCxvXYTop3xEzxKamZA3r9dnFoXt6X4AMpboc9mHkUX"
+        length="42702054"
+        type="None" />
+    
+      <!--<enclosure url="https://podcasts.andrewtheguy.com/am1430/media/202005231730_健保縱橫1.mp3" length="21600956" type="audio/mpeg"/>
+      <guid>https://podcasts.andrewtheguy.com/am1430/?name=202005231730_健保縱橫1.mp3</guid>-->
+      <!--<itunes:duration>45:00</itunes:duration>-->
+      <author>anonymous</author>
+      <itunes:author>anonymous</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Tue, 16 Feb 2021 05:35:44 +0000</pubDate><!-- substitute with file ts-->
+      </item>
+    
+      <item>
+      <title>02-08-21 1810加油站 （下）</title>
+      <itunes:subtitle>Podcast Episode</itunes:subtitle>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <description>Podcast Episode</description>
+    <link>https://ipfs.io/ipfs/QmUSJ5thTWVTRuAaNGDzJ2MEt7aQSbMH1ihUbNwrC9cibD</link>
+    <guid>OkTtqMV/wlVoX01RKHxQt5PGdwBYIGpV1Ln1GOh1kuk=</guid>
+          
+      <enclosure
+        url="https://ipfs.io/ipfs/QmUSJ5thTWVTRuAaNGDzJ2MEt7aQSbMH1ihUbNwrC9cibD"
+        length="40781113"
+        type="None" />
+    
+      <!--<enclosure url="https://podcasts.andrewtheguy.com/am1430/media/202005231730_健保縱橫1.mp3" length="21600956" type="audio/mpeg"/>
+      <guid>https://podcasts.andrewtheguy.com/am1430/?name=202005231730_健保縱橫1.mp3</guid>-->
+      <!--<itunes:duration>45:00</itunes:duration>-->
+      <author>anonymous</author>
+      <itunes:author>anonymous</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Tue, 16 Feb 2021 05:36:17 +0000</pubDate><!-- substitute with file ts-->
+      </item>
+    
+      <item>
+      <title>02-10-2021 天空下的彩虹- </title>
+      <itunes:subtitle>Podcast Episode</itunes:subtitle>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <description>Podcast Episode</description>
+    <link>https://ipfs.io/ipfs/QmNadahzfe6eeDuckGvkvCEe5Tc69AotdS1xV9nVNqunGz</link>
+    <guid>cVbzrnVZrnT+9N9Kho1e4kc34u3YWq5lCf72JcKJNQM=</guid>
+          
+      <enclosure
+        url="https://ipfs.io/ipfs/QmNadahzfe6eeDuckGvkvCEe5Tc69AotdS1xV9nVNqunGz"
+        length="42099775"
+        type="None" />
+    
+      <!--<enclosure url="https://podcasts.andrewtheguy.com/am1430/media/202005231730_健保縱橫1.mp3" length="21600956" type="audio/mpeg"/>
+      <guid>https://podcasts.andrewtheguy.com/am1430/?name=202005231730_健保縱橫1.mp3</guid>-->
+      <!--<itunes:duration>45:00</itunes:duration>-->
+      <author>anonymous</author>
+      <itunes:author>anonymous</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Tue, 16 Feb 2021 05:36:57 +0000</pubDate><!-- substitute with file ts-->
+      </item>
+    
+      <item>
+      <title>02-11-21 人間有情- </title>
+      <itunes:subtitle>Podcast Episode</itunes:subtitle>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <description>Podcast Episode</description>
+    <link>https://ipfs.io/ipfs/QmVJtwF2q9kPxK3HX7Btw3xfw7oWWz8DAQ9EkCeX9KXz3X</link>
+    <guid>R0zGejodxNOKq0YlQ0GOR5BHVylxUPfSuz8LCBeHLvM=</guid>
+          
+      <enclosure
+        url="https://ipfs.io/ipfs/QmVJtwF2q9kPxK3HX7Btw3xfw7oWWz8DAQ9EkCeX9KXz3X"
+        length="41463641"
+        type="None" />
+    
+      <!--<enclosure url="https://podcasts.andrewtheguy.com/am1430/media/202005231730_健保縱橫1.mp3" length="21600956" type="audio/mpeg"/>
+      <guid>https://podcasts.andrewtheguy.com/am1430/?name=202005231730_健保縱橫1.mp3</guid>-->
+      <!--<itunes:duration>45:00</itunes:duration>-->
+      <author>anonymous</author>
+      <itunes:author>anonymous</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Tue, 16 Feb 2021 05:37:11 +0000</pubDate><!-- substitute with file ts-->
+      </item>
+    
+      <item>
+      <title>202102131200_美麗人生</title>
+      <itunes:subtitle>Podcast Episode</itunes:subtitle>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <description>Podcast Episode</description>
+    <link>https://ipfs.io/ipfs/QmfKVS8EeR7Xei8ccV6eVRHkPtp8pfJRFeMFnvfVVmegsE</link>
+    <guid>c6ryPM+LVVbyoLYZ9HJ0iUWRu5cjfWvHQf91RcmOI3Y=</guid>
+          
+      <enclosure
+        url="https://ipfs.io/ipfs/QmfKVS8EeR7Xei8ccV6eVRHkPtp8pfJRFeMFnvfVVmegsE"
+        length="14400935"
+        type="audio/mpeg" />
+    
+      <!--<enclosure url="https://podcasts.andrewtheguy.com/am1430/media/202005231730_健保縱橫1.mp3" length="21600956" type="audio/mpeg"/>
+      <guid>https://podcasts.andrewtheguy.com/am1430/?name=202005231730_健保縱橫1.mp3</guid>-->
+      <!--<itunes:duration>45:00</itunes:duration>-->
+      <author>anonymous</author>
+      <itunes:author>anonymous</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Tue, 16 Feb 2021 05:50:12 +0000</pubDate><!-- substitute with file ts-->
+      </item>
+    
+      <item>
+      <title>202102131215_法律天地</title>
+      <itunes:subtitle>Podcast Episode</itunes:subtitle>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <description>Podcast Episode</description>
+    <link>https://ipfs.io/ipfs/Qmaz2rSLAabmcCv2y1wQ3GCCnTJ67dnWCxMu3h3pH1Y6TZ</link>
+    <guid>NSz/hhZCNwfsBLvUqCJTrlLysiLftQpIdJV3vh6dfzU=</guid>
+          
+      <enclosure
+        url="https://ipfs.io/ipfs/Qmaz2rSLAabmcCv2y1wQ3GCCnTJ67dnWCxMu3h3pH1Y6TZ"
+        length="28800935"
+        type="audio/mpeg" />
+    
+      <!--<enclosure url="https://podcasts.andrewtheguy.com/am1430/media/202005231730_健保縱橫1.mp3" length="21600956" type="audio/mpeg"/>
+      <guid>https://podcasts.andrewtheguy.com/am1430/?name=202005231730_健保縱橫1.mp3</guid>-->
+      <!--<itunes:duration>45:00</itunes:duration>-->
+      <author>anonymous</author>
+      <itunes:author>anonymous</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Tue, 16 Feb 2021 05:50:25 +0000</pubDate><!-- substitute with file ts-->
+      </item>
+    
+      <item>
+      <title>202102131730_健保縱橫</title>
+      <itunes:subtitle>Podcast Episode</itunes:subtitle>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <description>Podcast Episode</description>
+    <link>https://ipfs.io/ipfs/QmSiCxLwKq3pruad4EuMUqnS4Lhb6cz7Lqtx8nSJi8xsft</link>
+    <guid>nV7Nu5QBjEJG6ztcdfKV6XSrtEU0F0bx6l179Cs9pJM=</guid>
+          
+      <enclosure
+        url="https://ipfs.io/ipfs/QmSiCxLwKq3pruad4EuMUqnS4Lhb6cz7Lqtx8nSJi8xsft"
+        length="21600935"
+        type="audio/mpeg" />
+    
+      <!--<enclosure url="https://podcasts.andrewtheguy.com/am1430/media/202005231730_健保縱橫1.mp3" length="21600956" type="audio/mpeg"/>
+      <guid>https://podcasts.andrewtheguy.com/am1430/?name=202005231730_健保縱橫1.mp3</guid>-->
+      <!--<itunes:duration>45:00</itunes:duration>-->
+      <author>anonymous</author>
+      <itunes:author>anonymous</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Tue, 16 Feb 2021 05:50:40 +0000</pubDate><!-- substitute with file ts-->
+      </item>
+    
+      <item>
+      <title>202102141000_漫談法律</title>
+      <itunes:subtitle>Podcast Episode</itunes:subtitle>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <description>Podcast Episode</description>
+    <link>https://ipfs.io/ipfs/QmbAjci28cHk4qSddJbBgoF7Qx8GAkQJSknw5TceXtJy5K</link>
+    <guid>ERZy/49XZk4xDKStz094MZolIu+D1ZxY6VUPMbH/cWE=</guid>
+          
+      <enclosure
+        url="https://ipfs.io/ipfs/QmbAjci28cHk4qSddJbBgoF7Qx8GAkQJSknw5TceXtJy5K"
+        length="36000935"
+        type="audio/mpeg" />
+    
+      <!--<enclosure url="https://podcasts.andrewtheguy.com/am1430/media/202005231730_健保縱橫1.mp3" length="21600956" type="audio/mpeg"/>
+      <guid>https://podcasts.andrewtheguy.com/am1430/?name=202005231730_健保縱橫1.mp3</guid>-->
+      <!--<itunes:duration>45:00</itunes:duration>-->
+      <author>anonymous</author>
+      <itunes:author>anonymous</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Tue, 16 Feb 2021 05:50:54 +0000</pubDate><!-- substitute with file ts-->
+      </item>
+    
+      <item>
+      <title>202102141200_自由旅神</title>
+      <itunes:subtitle>Podcast Episode</itunes:subtitle>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <description>Podcast Episode</description>
+    <link>https://ipfs.io/ipfs/QmYyqLtuL8HL9ea36qFAoAdTth1jiHwFW7x9Db6xe5GxRq</link>
+    <guid>LpQbzpKpXGyoS6FvqaFxQqzx8VU+reJE9byTbTNocho=</guid>
+          
+      <enclosure
+        url="https://ipfs.io/ipfs/QmYyqLtuL8HL9ea36qFAoAdTth1jiHwFW7x9Db6xe5GxRq"
+        length="28800935"
+        type="audio/mpeg" />
+    
+      <!--<enclosure url="https://podcasts.andrewtheguy.com/am1430/media/202005231730_健保縱橫1.mp3" length="21600956" type="audio/mpeg"/>
+      <guid>https://podcasts.andrewtheguy.com/am1430/?name=202005231730_健保縱橫1.mp3</guid>-->
+      <!--<itunes:duration>45:00</itunes:duration>-->
+      <author>anonymous</author>
+      <itunes:author>anonymous</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Tue, 16 Feb 2021 05:51:05 +0000</pubDate><!-- substitute with file ts-->
+      </item>
+    
+</channel>
+</rss>
