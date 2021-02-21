@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Podcast Generator 2.7" -->
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="en" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title></title>
+  <link></link>
+  <!--<atom:link href="https://podcasts.andrewtheguy.com/am1430/feed.xml" rel="self" type="application/rss+xml" />-->
+  <description> </description>
+  <generator>Podcast Generator 2.7 - http://www.podcastgenerator.net</generator>
+  <lastBuildDate>Sun, 21 Feb 2021 04:00:56 +0000</lastBuildDate>
+  <language>en</language>
+  <copyright>Your copyright notice</copyright>
+  <itunes:image href="https://ipfs.io/ipfs/QmdhW3UzaAravidM1ZFKrKcVNNLjS9DFFMpaFGYb31mpLh" />
+  <image>
+  <url>https://ipfs.io/ipfs/QmdhW3UzaAravidM1ZFKrKcVNNLjS9DFFMpaFGYb31mpLh</url>
+  <title></title>
+  <link></link>
+  </image>
+  <itunes:summary></itunes:summary>
+  <itunes:subtitle></itunes:subtitle>
+  <itunes:author>Various</itunes:author>
+  <itunes:owner>
+  <itunes:name>Various</itunes:name>
+  <itunes:email>test@nospam.com</itunes:email>
+  </itunes:owner>
+  <itunes:explicit>no</itunes:explicit>
+  
+  <itunes:category text="Arts"></itunes:category>
+  
+
+      <item>
+      <title>Found a lizard in the back yard, neat!</title>
+      <itunes:subtitle>Podcast Episode</itunes:subtitle>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <description>Podcast Episode</description>
+    <link>https://ipfs.io/ipfs/QmWh6nuD6MPFFm3DkjpgrSShTdWVZ6Cs34NCCmQ1ZnHQBa</link>
+    <guid>WtHckYMs1GMfUraithXIxQhmaMOqKskkK8/kpxdMBEs=</guid>
+          
+      <enclosure
+        url="https://ipfs.io/ipfs/QmWh6nuD6MPFFm3DkjpgrSShTdWVZ6Cs34NCCmQ1ZnHQBa"
+        length="36000935"
+        type="audio/mpeg" />
+    
+      <!--<enclosure url="https://podcasts.andrewtheguy.com/am1430/media/202005231730_健保縱橫1.mp3" length="21600956" type="audio/mpeg"/>
+      <guid>https://podcasts.andrewtheguy.com/am1430/?name=202005231730_健保縱橫1.mp3</guid>-->
+      <!--<itunes:duration>45:00</itunes:duration>-->
+      <author>anonymous</author>
+      <itunes:author>anonymous</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Sun, 21 Feb 2021 03:59:05 +0000</pubDate><!-- substitute with file ts-->
+      </item>
+    
+      <item>
+      <title>haha</title>
+      <itunes:subtitle>Podcast Episode</itunes:subtitle>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <description>Podcast Episode</description>
+    <link>https://ipfs.io/ipfs/QmZjFHsi3v11Zm64EEHVc42xB9emaDAJ3zg2zmkcDMyGwH</link>
+    <guid>LNBqZBhoeZAXhAON4ibTCGNyBQabdjXDH6iBcT50yyY=</guid>
+          
+      <enclosure
+        url="https://ipfs.io/ipfs/QmZjFHsi3v11Zm64EEHVc42xB9emaDAJ3zg2zmkcDMyGwH"
+        length="28800935"
+        type="audio/mpeg" />
+    
+      <!--<enclosure url="https://podcasts.andrewtheguy.com/am1430/media/202005231730_健保縱橫1.mp3" length="21600956" type="audio/mpeg"/>
+      <guid>https://podcasts.andrewtheguy.com/am1430/?name=202005231730_健保縱橫1.mp3</guid>-->
+      <!--<itunes:duration>45:00</itunes:duration>-->
+      <author>anonymous</author>
+      <itunes:author>anonymous</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <pubDate>Sun, 21 Feb 2021 04:00:46 +0000</pubDate><!-- substitute with file ts-->
+      </item>
+    
+</channel>
+</rss>
