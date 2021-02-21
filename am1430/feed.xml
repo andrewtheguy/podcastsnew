@@ -6,7 +6,7 @@
   <link>https://ipfs.io/ipns/podcastipfs.andrewtheguy.com</link>
   <description>am1430</description>
   <generator>na</generator>
-  <lastBuildDate>Sun, 21 Feb 2021 21:23:38 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 21 Feb 2021 21:24:25 +0000</lastBuildDate>
   <language>en</language>
   <copyright>N/A</copyright>
   <itunes:image href="https://ipfs.io/ipfs/QmdhW3UzaAravidM1ZFKrKcVNNLjS9DFFMpaFGYb31mpLh" />
@@ -38,7 +38,7 @@
         url="https://ipfs.io/ipfs/QmYphQ58q4Qv7PqDMhu2T91DwfHRLGj6Z87Y9CK3WY4jcD"
         length="36000956"
         type="audio/mpeg" />
-      <!--<itunes:duration>45:00</itunes:duration>-->
+      
       <author>anonymous</author>
       <itunes:author>anonymous</itunes:author>
       <itunes:explicit>no</itunes:explicit>
@@ -56,7 +56,7 @@
         url="https://ipfs.io/ipfs/QmQJpxuoN66MPjcVKhWPANomaAeqp3Fp74ekGhovfn5eq6"
         length="14155776"
         type="audio/mpeg" />
-      <!--<itunes:duration>45:00</itunes:duration>-->
+      
       <author>anonymous</author>
       <itunes:author>anonymous</itunes:author>
       <itunes:explicit>no</itunes:explicit>
