@@ -2,21 +2,21 @@
 <!-- generator="Podcast Generator 2.7" -->
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="en" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <title></title>
-  <link></link>
-  <description> </description>
+  <title>am1430</title>
+  <link>https://ipfs.io/ipns/podcastipfs.andrewtheguy.com</link>
+  <description>am1430 </description>
   <generator>na</generator>
-  <lastBuildDate>Sun, 21 Feb 2021 21:20:52 +0000</lastBuildDate>
-  <language></language>
-  <copyright></copyright>
+  <lastBuildDate>Sun, 21 Feb 2021 21:21:36 +0000</lastBuildDate>
+  <language>en</language>
+  <copyright>N/A</copyright>
   <itunes:image href="https://ipfs.io/ipfs/QmdhW3UzaAravidM1ZFKrKcVNNLjS9DFFMpaFGYb31mpLh" />
   <image>
   <url>https://ipfs.io/ipfs/QmdhW3UzaAravidM1ZFKrKcVNNLjS9DFFMpaFGYb31mpLh</url>
-  <title></title>
-  <link></link>
+  <title>am1430</title>
+  <link>https://ipfs.io/ipns/podcastipfs.andrewtheguy.com</link>
   </image>
-  <itunes:summary></itunes:summary>
-  <itunes:subtitle></itunes:subtitle>
+  <itunes:summary>am1430</itunes:summary>
+  <itunes:subtitle>am1430</itunes:subtitle>
   <itunes:author>Various</itunes:author>
   <itunes:owner>
   <itunes:name>Various</itunes:name>
