@@ -2,22 +2,22 @@
 <!-- generator="Podcast Generator 2.7" -->
 <rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="en" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
-  <title>am1430</title>
-  <link>https://ipfs.io/ipns/podcastipfs.andrewtheguy.com</link>
+  <title></title>
+  <link></link>
   <!--<atom:link href="https://podcasts.andrewtheguy.com/am1430/feed.xml" rel="self" type="application/rss+xml" />-->
   <description> </description>
   <generator>Podcast Generator 2.7 - http://www.podcastgenerator.net</generator>
-  <lastBuildDate>Sat, 20 Feb 2021 21:57:01 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 21 Feb 2021 04:27:28 +0000</lastBuildDate>
   <language>en</language>
   <copyright>Your copyright notice</copyright>
   <itunes:image href="https://ipfs.io/ipfs/QmdhW3UzaAravidM1ZFKrKcVNNLjS9DFFMpaFGYb31mpLh" />
   <image>
   <url>https://ipfs.io/ipfs/QmdhW3UzaAravidM1ZFKrKcVNNLjS9DFFMpaFGYb31mpLh</url>
-  <title>am1430</title>
-  <link>https://ipfs.io/ipns/podcastipfs.andrewtheguy.com</link>
+  <title></title>
+  <link></link>
   </image>
-  <itunes:summary>am1430</itunes:summary>
-  <itunes:subtitle>am1430</itunes:subtitle>
+  <itunes:summary></itunes:summary>
+  <itunes:subtitle></itunes:subtitle>
   <itunes:author>Various</itunes:author>
   <itunes:owner>
   <itunes:name>Various</itunes:name>
@@ -29,17 +29,17 @@
   
 
       <item>
-      <title>02-15-21 1810加油站 （上）</title>
+      <title>202102171900_天空下的彩虹</title>
       <itunes:subtitle>Podcast Episode</itunes:subtitle>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <description>Podcast Episode</description>
-    <link>https://ipfs.io/ipfs/QmSHUyu6LUNy1aYEDZvgZ7SkuXLzzKjW45eZXXdRZ1wjiv</link>
-    <guid>VEGXjFk4Y1YV32jEZYN/M7QzXC2E3bdV+z6FBeYkQh8=</guid>
+    <link>https://ipfs.io/ipfs/QmbMSQE1ZXGeZtURKaJknjqzVThfyvAsDbgCtYi6hXS7ud</link>
+    <guid>e3Q8p5y7EgV1MeWDa06A2N1TawoT/0JiFKz5WtXMzd4=</guid>
           
       <enclosure
-        url="https://ipfs.io/ipfs/QmSHUyu6LUNy1aYEDZvgZ7SkuXLzzKjW45eZXXdRZ1wjiv"
-        length="42085146"
-        type="None" />
+        url="https://ipfs.io/ipfs/QmbMSQE1ZXGeZtURKaJknjqzVThfyvAsDbgCtYi6hXS7ud"
+        length="36000935"
+        type="audio/mpeg" />
     
       <!--<enclosure url="https://podcasts.andrewtheguy.com/am1430/media/202005231730_健保縱橫1.mp3" length="21600956" type="audio/mpeg"/>
       <guid>https://podcasts.andrewtheguy.com/am1430/?name=202005231730_健保縱橫1.mp3</guid>-->
@@ -47,21 +47,21 @@
       <author>anonymous</author>
       <itunes:author>anonymous</itunes:author>
       <itunes:explicit>no</itunes:explicit>
-      <pubDate>Sat, 20 Feb 2021 21:50:59 +0000</pubDate><!-- substitute with file ts-->
+      <pubDate>Sun, 21 Feb 2021 04:21:25 +0000</pubDate><!-- substitute with file ts-->
       </item>
     
       <item>
-      <title>02-15-21 1810加油站 （下）</title>
+      <title>202102201200_美麗人生</title>
       <itunes:subtitle>Podcast Episode</itunes:subtitle>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <description>Podcast Episode</description>
-    <link>https://ipfs.io/ipfs/QmSmWicJvDuw3mJuowoLYvSM7Z9Z6kNVtS2oFDhrcummzf</link>
-    <guid>b9dPWFjsvB1mEMMUquHQHvFGGPRcaqlO81sy5iRTStQ=</guid>
+    <link>https://ipfs.io/ipfs/QmQecdFARdU7X87cspUVEAz3Fs8jSWvepXALTGUiJw5rrX</link>
+    <guid>ojjAR+fupSY1PdZayspwdKbR9NuQYKT5zEq8dHqlOms=</guid>
           
       <enclosure
-        url="https://ipfs.io/ipfs/QmSmWicJvDuw3mJuowoLYvSM7Z9Z6kNVtS2oFDhrcummzf"
-        length="43223667"
-        type="None" />
+        url="https://ipfs.io/ipfs/QmQecdFARdU7X87cspUVEAz3Fs8jSWvepXALTGUiJw5rrX"
+        length="14400956"
+        type="audio/mpeg" />
     
       <!--<enclosure url="https://podcasts.andrewtheguy.com/am1430/media/202005231730_健保縱橫1.mp3" length="21600956" type="audio/mpeg"/>
       <guid>https://podcasts.andrewtheguy.com/am1430/?name=202005231730_健保縱橫1.mp3</guid>-->
@@ -69,21 +69,21 @@
       <author>anonymous</author>
       <itunes:author>anonymous</itunes:author>
       <itunes:explicit>no</itunes:explicit>
-      <pubDate>Sat, 20 Feb 2021 21:51:36 +0000</pubDate><!-- substitute with file ts-->
+      <pubDate>Sun, 21 Feb 2021 04:25:05 +0000</pubDate><!-- substitute with file ts-->
       </item>
     
       <item>
-      <title>02-16-21 受之有道 </title>
+      <title>202102201215_法律天地</title>
       <itunes:subtitle>Podcast Episode</itunes:subtitle>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <description>Podcast Episode</description>
-    <link>https://ipfs.io/ipfs/QmbkGTVhYEWZo9E5i4afR7g6X3SNTzABTWrtaQi6qu4a47</link>
-    <guid>+VgCyXEx/uzfswArfrxTy2lI7GVq97W+Q55jEpRQ5us=</guid>
+    <link>https://ipfs.io/ipfs/QmTHb26XEEBEo7vNCykEcN3Ti1e6yPvM6H8ggptXKnzJBn</link>
+    <guid>DosJEde6giovzQrM1SXJB7ShVtMWhXDSu2cltl937v0=</guid>
           
       <enclosure
-        url="https://ipfs.io/ipfs/QmbkGTVhYEWZo9E5i4afR7g6X3SNTzABTWrtaQi6qu4a47"
-        length="34956852"
-        type="None" />
+        url="https://ipfs.io/ipfs/QmTHb26XEEBEo7vNCykEcN3Ti1e6yPvM6H8ggptXKnzJBn"
+        length="28800956"
+        type="audio/mpeg" />
     
       <!--<enclosure url="https://podcasts.andrewtheguy.com/am1430/media/202005231730_健保縱橫1.mp3" length="21600956" type="audio/mpeg"/>
       <guid>https://podcasts.andrewtheguy.com/am1430/?name=202005231730_健保縱橫1.mp3</guid>-->
@@ -91,21 +91,21 @@
       <author>anonymous</author>
       <itunes:author>anonymous</itunes:author>
       <itunes:explicit>no</itunes:explicit>
-      <pubDate>Sat, 20 Feb 2021 21:51:52 +0000</pubDate><!-- substitute with file ts-->
+      <pubDate>Sun, 21 Feb 2021 04:25:08 +0000</pubDate><!-- substitute with file ts-->
       </item>
     
       <item>
-      <title>02-16-21 泡泡娛樂</title>
+      <title>202102201730_健保縱橫</title>
       <itunes:subtitle>Podcast Episode</itunes:subtitle>
       <itunes:summary><![CDATA[]]></itunes:summary>
       <description>Podcast Episode</description>
-    <link>https://ipfs.io/ipfs/QmTgKnfKhWRSd4HtTvTgppgqhgSaoHDXD4aR16PrWBeRCh</link>
-    <guid>Q+9ZknhM3wxq9FhnKEi/Pn8dJkp743G+w+hTaznl4YA=</guid>
+    <link>https://ipfs.io/ipfs/QmVnTPzCHaQ16TSesTNu8zcq4VStRAq1zeraa6GoyQhb3Y</link>
+    <guid>q8LK+ppl8j1BeJwEaIb9lKUtmPg/Cd33rEj48ke4lc8=</guid>
           
       <enclosure
-        url="https://ipfs.io/ipfs/QmTgKnfKhWRSd4HtTvTgppgqhgSaoHDXD4aR16PrWBeRCh"
-        length="16682423"
-        type="None" />
+        url="https://ipfs.io/ipfs/QmVnTPzCHaQ16TSesTNu8zcq4VStRAq1zeraa6GoyQhb3Y"
+        length="3932160"
+        type="audio/mpeg" />
     
       <!--<enclosure url="https://podcasts.andrewtheguy.com/am1430/media/202005231730_健保縱橫1.mp3" length="21600956" type="audio/mpeg"/>
       <guid>https://podcasts.andrewtheguy.com/am1430/?name=202005231730_健保縱橫1.mp3</guid>-->
@@ -113,29 +113,7 @@
       <author>anonymous</author>
       <itunes:author>anonymous</itunes:author>
       <itunes:explicit>no</itunes:explicit>
-      <pubDate>Sat, 20 Feb 2021 21:52:02 +0000</pubDate><!-- substitute with file ts-->
-      </item>
-    
-      <item>
-      <title>02-19-2021 繼續有心人</title>
-      <itunes:subtitle>Podcast Episode</itunes:subtitle>
-      <itunes:summary><![CDATA[]]></itunes:summary>
-      <description>Podcast Episode</description>
-    <link>https://ipfs.io/ipfs/QmXFDEarx81qSLEqJKLHHjx2URyAfJCNRpyEr5xPjSkcVf</link>
-    <guid>BELXRpKPHh6pVu165V0ouQUiI0Rjt2txqXkRKJP1adw=</guid>
-          
-      <enclosure
-        url="https://ipfs.io/ipfs/QmXFDEarx81qSLEqJKLHHjx2URyAfJCNRpyEr5xPjSkcVf"
-        length="16557871"
-        type="None" />
-    
-      <!--<enclosure url="https://podcasts.andrewtheguy.com/am1430/media/202005231730_健保縱橫1.mp3" length="21600956" type="audio/mpeg"/>
-      <guid>https://podcasts.andrewtheguy.com/am1430/?name=202005231730_健保縱橫1.mp3</guid>-->
-      <!--<itunes:duration>45:00</itunes:duration>-->
-      <author>anonymous</author>
-      <itunes:author>anonymous</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-      <pubDate>Sat, 20 Feb 2021 21:52:11 +0000</pubDate><!-- substitute with file ts-->
+      <pubDate>Sun, 21 Feb 2021 04:25:09 +0000</pubDate><!-- substitute with file ts-->
       </item>
     
 </channel>
